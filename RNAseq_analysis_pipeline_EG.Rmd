@@ -37,7 +37,7 @@ library(pheatmap)
 ```
 
 
-I have a set of raw count data and TPM count data from an RNAseq dataset (Raveendra, et al., 2018, PNAS). 
+I have a set of raw count data from an RNAseq dataset (Raveendra, et al., 2018, PNAS). 
 This dataset has 2 conditions (KD and Control) with N=3 per group. 
 I start by changing to the directory that contains the data, and importing the csv file of the raw counts with sample name on the column side and gene name on the row side. 
 
