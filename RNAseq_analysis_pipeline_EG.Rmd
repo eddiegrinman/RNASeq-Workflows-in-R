@@ -5,7 +5,7 @@ Notes: Reading the data, Principle Component Analysis, Differential Expression A
   Hierarchical Clustering Heatmaps, Volcano plots, Gene Biotype Analysis, Pathway
   Analysis
 Output: html_document
-Title: RNASeq Workflow
+Title: RNASeq Workflow in R
 ------------------------
 
 
